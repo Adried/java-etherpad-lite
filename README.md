@@ -34,6 +34,9 @@ Latest release currently targets Etherpad Lite API v1.2.13.
 The plan is to keep up with the most recent version of the Etherpad Lite API.
 (Note that we're talking about API versions here, not release versions).
 
+### TRAVIS ###
+[![Build Status](https://travis-ci.org/Adried/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/Adried/java-etherpad-lite)
+
 ### EXAMPLE ###
 ```java
 EPLiteClient client = new EPLiteClient("http://localhost:9001", "K8OF91QMQYUvrNu3e9rJ7FnnVgaB3m9q");
