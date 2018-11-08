@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Adried/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/Adried/java-etherpad-lite)
+
 Java Etherpad Lite Client
 =========================
 
@@ -33,9 +35,6 @@ Depends on JSON.simple (https://github.com/fangyidong/json-simple).
 Latest release currently targets Etherpad Lite API v1.2.13.
 The plan is to keep up with the most recent version of the Etherpad Lite API.
 (Note that we're talking about API versions here, not release versions).
-
-### TRAVIS ###
-[![Build Status](https://travis-ci.org/Adried/java-etherpad-lite.svg?branch=master)](https://travis-ci.org/Adried/java-etherpad-lite)
 
 ### EXAMPLE ###
 ```java
