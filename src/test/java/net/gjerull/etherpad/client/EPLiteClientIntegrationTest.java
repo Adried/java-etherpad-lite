@@ -1,7 +1,6 @@
-﻿package net.gjerull.etherpad.client;
+package net.gjerull.etherpad.client;
 
 import java.util.*;
-
 
 import org.junit.After;
 import org.junit.Before;
